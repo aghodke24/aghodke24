@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghodke24&label=Profile%20views&color=0e75b6&style=flat" alt="aghodke24" /> </p>
 
-- 🔭 I’m currently working on [Khana Ghar Tak](https://github.com/Adp6190/KhaanaGharTak.git)
+- 🔭 I’m currently working on [Khana Ghar Tak](https://github.com/aghodke24/Khana-Ghar-Tak)
 
 - 🌱 I’m currently learning **Java, MySQL, .Net, DataStructure**
 
