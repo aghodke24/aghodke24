@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://aghodke24.github.io/](https://aghodke24.github.io/)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **.NET & Angular**
 
 - 📫 How to reach me **http://linkedin.com/in/ankit-ghodke-61a063251**
-
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/650f08af4470b11abd12e6fd](https://app.luminpdf.com/viewer/650f08af4470b11abd12e6fd)
 
 
 <h3 align="left">Connect with me:</h3>
